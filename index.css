@@ -22,7 +22,7 @@ body {
 
 @font-face {
   font-family: "mc";
-  src: url("assets/fonts/regular.otf") format("opentype");
+  src: url("https://cdn.glitch.global/180b8256-cef5-431d-834f-d445798120cf/regular.otf?v=1659029815532") format("opentype");
 }
 
 #enter {
