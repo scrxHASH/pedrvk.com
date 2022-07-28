@@ -5,6 +5,7 @@ p {
 a[href] {
   color: #dc143c;
 }
+
 body {
   background-color: #000000;
   font-family: "mc";
@@ -22,7 +23,8 @@ body {
 
 @font-face {
   font-family: "mc";
-  src: url("https://cdn.glitch.global/180b8256-cef5-431d-834f-d445798120cf/regular.otf?v=1659029815532") format("opentype");
+  src: url("https://cdn.glitch.global/180b8256-cef5-431d-834f-d445798120cf/regular.otf?v=1659029815532")
+    format("opentype");
 }
 
 #enter {
