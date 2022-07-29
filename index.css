@@ -1,29 +1,25 @@
 p {
-  color: #FFFFFF;
+  color: #FF0000;
 }
 
 a[href] {
-  color: #FFFFFF;
+  color: #FF0000;
 }
 
 body {
-  background-color: #000000;
-  background-image: url("https://cdn.discordapp.com/attachments/993694449836236893/1002428242432622602/CraftyCircularBeauceron-max-1mb.gif");
-  background-position: center center;
-	background-repeat: repeat;
-	background-attachment: fixed; 
-  font-family: "mc";
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
+    background-color: #191919;
+    font-family: "mc";
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
 
 @font-face {
   font-family: "mc";
