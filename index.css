@@ -1,13 +1,17 @@
 p {
-  color: #8A2BE2;
+  color: #FFFFFF;
 }
 
 a[href] {
-  color: #8A2BE2;
+  color: #FFFFFF;
 }
 
 body {
-  background-color: #191919;
+  background-color: #999999;
+  background-image: url("https://cdn.discordapp.com/attachments/993694449836236893/1002428242432622602/CraftyCircularBeauceron-max-1mb.gif");
+  background-position: center center;
+	background-repeat: repeat;
+	background-attachment: fixed; 
   font-family: "mc";
   color: #fff;
   display: flex;
