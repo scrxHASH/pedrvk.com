@@ -1,25 +1,25 @@
 p {
-  color: #FF0000;
+  color: #dcdcdc;
 }
 
 a[href] {
-  color: #FF0000;
+  color: #dcdcdc;
 }
 
 body {
-    background-color: #191919;
-    font-family: "mc";
-    color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-  }
+  background-color: #191919;
+  font-family: "mc";
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
 
 @font-face {
   font-family: "mc";
