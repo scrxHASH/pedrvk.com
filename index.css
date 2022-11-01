@@ -1,13 +1,13 @@
 p {
-  color: #FF8C00;
+  color: #7CFC00;
 }
 
 a[href] {
-  color: #FF8C00;
+  color: #7CFC00;
 }
 
 body {
-  background-color: #191919;
+  background-color: #000000;
   font-family: "mc";
   color: #fff;
   display: flex;
